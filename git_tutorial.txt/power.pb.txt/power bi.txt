@@ -1,0 +1,95 @@
+1. What is Power BI?
+Answer: Power BI is a Microsoft business analytics tool that provides interactive visualizations and business intelligence capabilities with an interface simple enough for end-users to create their own reports and dashboards.
+
+2. What are the building blocks of Power BI?
+Answer: The building blocks of Power BI are:
+
+Visualizations: Graphical representations of data.
+Datasets: A collection of data used for creating visualizations.
+Reports: A collection of visualizations across multiple pages.
+Dashboards: A single-page summary of multiple visualizations from reports.
+Tiles: A single visualization in a dashboard or report.
+3. What are the key components of Power BI?
+Answer: Power BI has three main components:
+
+Power BI Desktop: For creating reports.
+Power BI Service (Cloud): For sharing reports and dashboards.
+Power BI Mobile Apps: For accessing reports on mobile devices.
+4. What are content packs in Power BI?
+Answer: Content packs are pre-built collections of visuals and reports, created by service providers like Salesforce or Google Analytics, to help users quickly get insights from popular data sources.
+
+5. What is DAX in Power BI?
+Answer: DAX (Data Analysis Expressions) is a formula language used in Power BI for creating custom calculations in reports and dashboards. It includes functions, operators, and constants to perform advanced data analysis.
+
+6. What are some common DAX functions?
+Answer: Common DAX functions include:
+
+SUM(): Adds up all the numbers in a column.
+AVERAGE(): Calculates the average of a column.
+RELATED(): Fetches related values from another table.
+IF(): Performs conditional calculations.
+7. What is Power Query in Power BI?
+Answer: Power Query is a data connection technology that enables users to discover, connect, combine, and refine data from various sources such as databases, web services, and Excel files.
+
+8. What is a Power BI dashboard?
+Answer: A Power BI dashboard is a single-page, often referred to as a canvas, that uses visualizations from reports to display key metrics. It is interactive and provides a quick overview of the data.
+
+9. How do you share reports in Power BI?
+Answer: Reports can be shared by publishing them to the Power BI Service and then sharing links or embedding the reports in other platforms. Permissions can be managed to control access.
+
+10. What are the types of data refreshes in Power BI?
+Answer: Power BI supports four types of data refresh:
+
+Package refresh: Refreshing the data from the Power BI file.
+Model/Report refresh: Updating the data model with new data.
+Tile refresh: Updating the visualizations on the dashboard.
+Data refresh: Scheduling automatic data updates from the data source.
+11. What is the difference between Direct Query and Import Mode in Power BI?
+Answer:
+
+Import Mode: The data is imported and stored in Power BI's in-memory data model.
+Direct Query: Power BI fetches the data from the data source in real time without storing it.
+12. What is Power BI Gateway?
+Answer: Power BI Gateway acts as a bridge between on-premises data and the cloud service, allowing data refreshes for reports and dashboards created from on-premises data sources.
+
+13. What are bookmarks in Power BI?
+Answer: Bookmarks allow users to save the current state of a report page, including the applied filters and visual selections, and return to that state later or create stories within reports.
+
+14. What is a calculated column in Power BI?
+Answer: A calculated column is a new column that you create by using DAX expressions to perform calculations on existing columns in the data model.
+
+15. What is Power Pivot?
+Answer: Power Pivot is a data modeling component that allows for creating relationships between datasets, performing calculations, and working with large data sets.
+
+16. What is the role of relationships in Power BI?
+Answer: Relationships define how tables in a data model relate to one another, allowing data from different tables to be combined and analyzed together.
+
+17. What are slicers in Power BI?
+Answer: Slicers are visual filters that allow users to dynamically filter data in reports by selecting specific values.
+
+18. How is security implemented in Power BI?
+Answer: Security in Power BI is implemented using Row-Level Security (RLS), which restricts data access based on user roles and filters data based on their permissions.
+
+19. What are custom visuals in Power BI?
+Answer: Custom visuals are additional visual types that can be imported into Power BI from the marketplace to enhance data visualization and are often used when built-in visuals are not sufficient.
+
+20. How do you perform data transformation in Power BI?
+Answer: Data transformation in Power BI is done through Power Query Editor, where you can clean, reshape, and prepare the data by applying various transformations such as filtering, splitting columns, or aggregating data.
+
+These questions should help you prepare for Power BI-related interviews by covering the essential concepts and features of the tool.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
