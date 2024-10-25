@@ -8,5 +8,5 @@ Ans. git config --global user.name "yash"
    8.git add git.txt = to add the file in git stage
 
    9. git commit -a -m "commit" - this is directly commit the git-stage area
-
+  10 git rm --cached filename - how to delete the file
   
